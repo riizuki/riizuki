@@ -28,12 +28,12 @@ I build web and mobile apps, and I like bringing machine learning into everyday 
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| [lebak-siliwangi2](https://github.com/riizuki/lebak-siliwangi2) · [live](https://lebak-siliwangi2.vercel.app) | Website for our KKN group (KKN Berdampak UNIKOM 2026): work programs, gallery, and documentation | React, Vite |
-| [blockchain-demo](https://github.com/riizuki/blockchain-demo) · [live](https://riizuki.github.io/blockchain-demo/) | Interactive blockchain demo: hashing, mining, forks, signatures, and a 51% attack lab | JavaScript |
-| [sprint-ketik](https://github.com/riizuki/sprint-ketik) · [live](https://riizuki.github.io/sprint-ketik/) | Retro-inspired typing speed test with performance statistics | TypeScript |
-| [Food-Recognizer-ML-Android](https://github.com/riizuki/Food-Recognizer-ML-Android) | Scans food with an on-device TFLite model and estimates nutrition with Gemini AI | Java, TFLite, Firebase |
-| [flutter-machine-learning](https://github.com/riizuki/flutter-machine-learning) | Machine learning in a Flutter app: model integration, inference, and real-time prediction | Dart, Flutter |
-| [paud-atthohiriyyah](https://github.com/riizuki/paud-atthohiriyyah) | Education portal for PAUD Atthohiriyyah | Laravel, PHP |
+| 🏡 [lebak-siliwangi2](https://github.com/riizuki/lebak-siliwangi2) · [live](https://lebak-siliwangi2.vercel.app) | Website for our KKN group (UNIKOM 2026): work programs, photo gallery, and village stories | React, Vite, Framer Motion |
+| ⛓️ [blockchain-demo](https://github.com/riizuki/blockchain-demo) · [live](https://riizuki.github.io/blockchain-demo/) | Break a blockchain yourself: hashing, mining, forks, signatures, and a 51% attack lab | JavaScript |
+| 🤖 [flutter-machine-learning](https://github.com/riizuki/flutter-machine-learning) | Machine learning inside a Flutter app: model integration, inference, and real-time predictions | Dart, Flutter |
+| 🍜 [Food-Recognizer-ML-Android](https://github.com/riizuki/Food-Recognizer-ML-Android) | Point your camera at food: on-device TFLite recognition and Gemini AI nutrition estimates | Java, TFLite, Firebase |
+| ⌨️ [sprint-ketik](https://github.com/riizuki/sprint-ketik) · [live](https://riizuki.github.io/sprint-ketik/) | Retro-inspired typing speed test with performance stats | TypeScript |
+| 🌀 [hand-recognition-rasengan](https://github.com/riizuki/hand-recognition-rasengan) | Charge a Rasengan with your bare hand: real-time webcam hand tracking | JavaScript, MediaPipe |
 
 ### Connect
 
